@@ -5,4 +5,4 @@ dando mis primeros pasos en la programacion con un poco de diseño anexo las evi
 
 
 ## Aca una demostrasion de la app 
-<a href="freelancer-codigodenys.netlify.app">Visita mi sitio web</a>
+[Mi proyecto](https://freelancer-codigodenys.netlify.app)
